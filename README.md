@@ -1,3 +1,3 @@
 # JUTIF2023
 #project ini merupakan
-![burn1](Burn1.JPG)
+![burn1](burn1.JPG)
