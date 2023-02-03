@@ -41,9 +41,59 @@
 | 33 | Serahkan Surat Ke Penduduk - Pihak Desa           | High      | 2           |
                                                                        64          
                                                                        
-## Product Backlog
+## Sprint Planning
 
-### Tabel 2. Detail Product Backlog                                                                       
+### Tabel A. Sprint Planning 1                                                                       
+
+| No | Nama Backlog                                      | Task                                                         | Pengerjaan (Hari) |
+|----|---------------------------------------------------|--------------------------------------------------------------|-------------------|
+| 1  | Halaman Login                                     | Membuat antarmuka halaman login                              | 1                 |
+|    |                                                   | Membuat fungsi login                                         | 1                 |
+| 2  | Halaman Utama - Administrator                     | Membuat antarmuka halaman utama - administrator              | 0.5               |
+|    |                                                   | Membuat fungsi menampilkan halaman utama - administrator     | 0.5               |
+| 3  | Kelola Data Penduduk - Administrator              | Membuat antarmuka daftar data Penduduk                       | 0.25              |
+|    |                                                   | Membuat antarmuka tambah data Penduduk                       | 0.25              |
+|    |                                                   | Membuat antarmuka ubah data Penduduk                         | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan daftar data Penduduk              | 0.25              |
+|    |                                                   | Membuat fungsi tambah data Penduduk                          | 0.25              |
+|    |                                                   | Membuat fungsi ubah data Penduduk                            | 0.25              |
+|    |                                                   | Membuat fungsi hapus data Penduduk                           | 0.5               |
+| 4  | Kelola Data Jabatan Pegawai - Administrator       | Membuat antarmuka daftar data Jabatan Pegawai                | 0.25              |
+|    |                                                   | Membuat antarmuka tambah data Jabatan Pegawai                | 0.25              |
+|    |                                                   | Membuat antarmuka ubah data Jabatan Pegawai                  | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan daftar data Jabatan Pegawai       | 0.25              |
+|    |                                                   | Membuat fungsi tambah data Jabatan Pegawai                   | 0.25              |
+|    |                                                   | Membuat fungsi ubah data Jabatan Pegawai                     | 0.25              |
+|    |                                                   | Membuat fungsi hapus data Jabatan Pegawai                    | 0.5               |
+| 5  | Kelola Data Pegawai - Administrator               | Membuat antarmuka daftar data Pegawai                        | 0.25              |
+|    |                                                   | Membuat antarmuka tambah data Pegawai                        | 0.25              |
+|    |                                                   | Membuat antarmuka ubah data Pegawai                          | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan daftar data Pegawai               | 0.25              |
+|    |                                                   | Membuat fungsi tambah data Pegawai                           | 0.25              |
+|    |                                                   | Membuat fungsi ubah data Pegawai                             | 0.25              |
+|    |                                                   | Membuat fungsi hapus data Pegawai                            | 0.5               |
+| 6  | Kelola Data Rukun Tetangga - Administrator        | Membuat antarmuka daftar data Rukun tetangga                 | 0.25              |
+|    |                                                   | Membuat antarmuka tambah data Rukun tetangga                 | 0.25              |
+|    |                                                   | Membuat antarmuka ubah data Rukun tetangga                   | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan daftar data Rukun Tetangga        | 0.25              |
+|    |                                                   | Membuat fungsi tambah data Rukun tetangga                    | 0.25              |
+|    |                                                   | Membuat fungsi ubah data Rukun tetangga                      | 0.25              |
+|    |                                                   | Membuat fungsi hapus data Rukun tetangga                     | 0.5               |
+| 7  | Kelola Data Rukun Warga - Administrator           | Membuat antarmuka daftar data Rukun warga                    | 0.25              |
+|    |                                                   | Membuat antarmuka tambah data Rukun warga                    | 0.25              |
+|    |                                                   | Membuat antarmuka ubah data Rukun warga                      | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan daftar data Rukun Warga           | 0.25              |
+|    |                                                   | Membuat fungsi tambah data Rukun warga                       | 0.25              |
+|    |                                                   | Membuat fungsi ubah data Rukun warga                         | 0.25              |
+|    |                                                   | Membuat fungsi hapus data Rukun warga                        | 0.5               |
+| 8  | Pengaturan Aplikasi - Administrator               | Membuat antarmuka Pengaturan aplikasi                        | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan Pengaturan aplikasi               | 0.25              |
+|    |                                                   | Membuat fungsi simpan Pengaturan aplikasi                    | 0.5               |
+| 9  | Pengaturan Pegawai Penerima Surat - Administrator | Membuat antarmuka Pengaturan Pegawai Penerima Surat          | 0.25              |
+|    |                                                   | Membuat fungsi menampilkan Pengaturan Pegawai Penerima Surat | 0.25              |
+|    |                                                   | Membuat fungsi simpan Pengaturan Pegawai Penerima Surat      | 0.5               |
+                                                                                                                          15                
+### Tabel B. Sprint Planning 2 
 
 
 
