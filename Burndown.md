@@ -1,3 +1,7 @@
-# JUTIF2023
-#project ini merupakan
-![burn1](burn1.JPG)
+# Implementasi Sistem Informasi Manajemen Kantor Menggunakan Scrum Framework di Desa Wangunsari
+
+## Burndown Chart
+
+### Tabel A. Gambar Detail Product Backlog
+![burn1](images/burn1.JPG)
+
