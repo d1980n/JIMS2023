@@ -127,7 +127,7 @@
 |    |                                                   | Membuat antarmuka formulir pengajuan surat keterangan pindah    | 1                 |
 |    |                                                   | Membuat antarmuka formulir pengajuan surat keterangan nikah     | 1                 |
 | 9  | Simpan Pengajuan Surat - Penduduk                 | Membuat fungsi simpan pengajuan surat keterangan                | 1                 |
-|    |                                                   |                                                                  15                
+                                                                                                                             15                
 
 ### Tabel C. Sprint Planning 3 
 | No | Nama Backlog                              | Task                                                       | Pengerjaan (Hari) |
@@ -147,7 +147,7 @@
 | 6  | Halaman Proses Surat - Rukun Tetangga     | Membuat antarmuka pelacakan surat                          | 1                 |
 |    |                                           | Membuat fungsi menampilkan pelacakan surat                 | 1                 |
 | 7  | Setujui Pengajuan Surat - Rukun Tetangga  | Membuat antarmuka Setujui Pengajuan Surat                  | 1                 |
-|    |                                           |                                                            | 15                |
+                                                                                                                15                
 
 
 ### Tabel D. Sprint Planning 4 
@@ -168,7 +168,7 @@
 |    |                                          | Membuat fungsi menyimpan Kirim Surat Ke Pegawai Lain | 1                 |
 | 8  | Set Nomor Surat - Pihak Desa             | Membuat antarmuka Set Nomor Surat                    | 1                 |
 |    |                                          | Membuat fungsi menyimpan Set Nomor Surat             | 1                 |
-|    |                                          |                                                        15                
+                                                                                                         15                
 
 ### Tabel 3. Sprint Planning 5 
 | No | Nama Backlog                            | Task                                                | Pengerjaan (Hari) |
@@ -177,7 +177,7 @@
 |    |                                         | Membuat fungsi menyimpan Set Selesai                | 1                 |
 | 2  | Serahkan Surat Ke Penduduk - Pihak Desa | Membuat antarmuka Serahkan Surat Ke Penduduk        | 1                 |
 |    |                                         | Membuat fungsi menyimpan Serahkan Surat Ke Penduduk | 1                 |
-|    |                                         |                                                     | 4                 |
+                                                                                                       4                 
 
 
 
