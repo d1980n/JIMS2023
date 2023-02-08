@@ -96,7 +96,7 @@
 ![burn1](images/review31.jpeg)
 
 ### Gambar 32. backlog 32 : Set Selesai - Pihak Desa
-![burn1](images/review312.jpeg)
+![burn1](images/review32.jpeg)
 
 ### Gambar 33. backlog 33 : Serahkan Surat Ke Penduduk - Pihak Desa
 ![burn1](images/review33.jpeg)
